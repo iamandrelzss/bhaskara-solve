@@ -5,4 +5,4 @@
 # Feito isso ele vai calcular o valor de Delta 
 # Se o valor de Delta der negativo os valores de X1 e X2 serão nulos
 # Para Delta ser positivo basta adicionar um valor negativo na váriavel C
-# Após o valor de Delta ser calculado ele vai finalizar a operação com o cálculo de X1 e X2
+# Após o valor de Delta ser calculado ele vai finalizar a operação com o valor de X1 e X2
